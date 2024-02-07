@@ -1,5 +1,5 @@
 # Use OpenJDK 11 as the base image
-FROM openjdk:11-jdk-slim
+FROM openjdk:17-oracle
 
 # Metadata as a label
 LABEL maintainer="goyalmk2001@gmail.com" version="1.0" description="Demo Application"
