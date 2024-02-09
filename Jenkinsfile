@@ -7,7 +7,7 @@ pipeline {
         IMAGE_TAG = '1.0.6'
         REGISTRY_URL = 'https://hub.docker.com/repository/docker/mkgoyal/demoapp'
         REGISTRY_USERNAME = mkgoyal
-        REGISTRY_PASSWORD = mkg@160901
+        REGISTRY_PASSWORD = 'mkg@160901'
     }
 
     stages {
