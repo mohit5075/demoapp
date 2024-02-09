@@ -39,7 +39,6 @@
 	
 	</dependencies>
 	<build>
-<<<<<<< HEAD
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
@@ -48,7 +47,6 @@
 			</plugin>
 		</plugins>
 	</build>
-=======
     <plugins>
         <plugin>
             <groupId>org.apache.maven.plugins</groupId>
@@ -56,6 +54,4 @@
         </plugin>
     </plugins>
 </build>
-
->>>>>>> 27a3f623baf8911850609656080e1e04eef66ffa
 </project>
