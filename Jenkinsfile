@@ -5,7 +5,7 @@ pipeline {
         // Define variables for image name and tag
         IMAGE_NAME = demoapp
         IMAGE_TAG = '1.0.6'
-        REGISTRY_URL = https://hub.docker.com/repository/docker/mkgoyal/demoapp
+        REGISTRY_URL = 'https://hub.docker.com/repository/docker/mkgoyal/demoapp'
         REGISTRY_USERNAME = mkgoyal
         REGISTRY_PASSWORD = mkg@160901
     }
